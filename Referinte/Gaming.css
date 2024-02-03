@@ -1,0 +1,155 @@
+h1 {
+    text-align: center;
+    font-family: "papyrus", fantasy;
+    margin: 10px;
+}
+
+#t1 {
+    border: 5px;
+    border-radius: 10px;
+}
+
+#games {
+    border: 2px;
+    border-radius: 10px;
+    background-color: #b3f0ff;
+    color: #4d4dff;
+    padding: 5px;
+}
+
+#games1 {
+    font-size: 23px;
+    border: 1px black;
+    border-radius: 10px;
+    background-color: lightgreen;
+    padding: 5px;
+    color: darkorchid;";
+}
+
+#Title {
+    text-decoration-line: underline;
+    color: white;
+    text-shadow: 0 0 3px #ff0000;
+    font-size: 100px;
+}
+
+#homep {
+    font-family: "Brush Script", cursive;
+    font-size: 33px;
+    color: #99ffff;
+    margin-left: 25px;
+}
+
+#homep1 {
+    font-family: "Playbill", fantasy;
+    font-size: 60px;
+    color: #ffff99;
+    text-align: center;
+}
+
+#zoom {
+    transition: transform .2s;
+} 
+  
+#zoom:hover {transform: scale(1.25)}
+
+span.page1 {
+    background-color: lightgoldenrodyellow;
+    border: double 7px;
+    border-radius: 15px;
+    border-color: #80bfff;
+    color: darkmagenta;
+    text-shadow: 2px 2px 5px #ff99ff;
+    position: absolute;
+    top: 160px;
+    left: 10px;                    
+}
+
+span.page2 {
+    background-color: linen;
+    border: groove 5px;
+    border-color: #c6ffb3;
+    color: #6666ff;
+    text-shadow: 2px 2px 5px #80ffff;
+    position: absolute;
+    top: 160px;
+    left: 10px;
+}
+
+span.page3 {
+    background-color: linen;
+    border: ridge 5px;
+    border-color: lightsalmon;
+    color: bf4040;
+    text-shadow: 2px 2px 5px #ff8080;
+    position: absolute;
+    top: 160px;
+    left: 10px;
+}
+
+body.homepage {
+    background-image: url("../Website images/Homepage-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #1a001a;
+}
+
+body.JsF {
+    background-image: url("../Website images/anonymous-with-hoodie.avif");
+    background-size: 310px;
+    background-repeat: repeat-y;
+    background-position: right top;
+    background-color: #00394d;
+}
+
+body.cosp {
+    background-image: url("../Website images/cosplay.png");
+    background-repeat: no-repeat;
+    background-size: 900px;
+    background-position: right top;
+    background-color: #7070db;
+}
+
+#tabelinsert {
+    border: 5px double black;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 10px;
+    background-color: ghostwhite;
+    float: right;
+    margin-right: 28%;
+    margin-top: 7%;
+}
+
+#tabelinsert1 {
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 10px;
+}
+
+#tableabs {
+    border: 5px groove #f3e6ff;
+    border-radius: 10px;
+    background-color: #1a0600;
+}
+
+#tableabs1 {
+    font-size: 20px;
+    border: 1px black;
+    border-radius: 10px;
+    background-color: #b3d9ff;
+    padding: 5px;
+}
+
+li {
+    font-family: verdana, serif;
+    font-size: 15px;
+    color: lightcoral;
+}
+
+label {
+    font-size: 20px;
+    color: lightcyan;
+}
+
